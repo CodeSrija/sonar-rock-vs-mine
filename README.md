@@ -1,4 +1,3 @@
-```
 # SONAR Rock Vs Mine Prediction  
 
 This project aims to classify sonar signals as either **rock** or **mine** using the logistic regression technique.  
